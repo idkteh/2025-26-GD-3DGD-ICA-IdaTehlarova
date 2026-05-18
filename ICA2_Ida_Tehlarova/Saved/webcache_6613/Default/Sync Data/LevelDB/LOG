@@ -1,2 +1,3 @@
-2026/05/18-19:09:49.415 6af8 Creating DB C:\Users\idate\Documents\GitHub\2025-26-GD-3DGD-ICA-IdaTehlarova\ICA2_Ida_Tehlarova\Saved\webcache_6613\Default\Sync Data\LevelDB since it was missing.
-2026/05/18-19:09:49.442 6af8 Reusing MANIFEST C:\Users\idate\Documents\GitHub\2025-26-GD-3DGD-ICA-IdaTehlarova\ICA2_Ida_Tehlarova\Saved\webcache_6613\Default\Sync Data\LevelDB/MANIFEST-000001
+2026/05/18-19:17:40.387 37bc Reusing MANIFEST C:\Users\idate\Documents\GitHub\2025-26-GD-3DGD-ICA-IdaTehlarova\ICA2_Ida_Tehlarova\Saved\webcache_6613\Default\Sync Data\LevelDB/MANIFEST-000001
+2026/05/18-19:17:40.389 37bc Recovering log #3
+2026/05/18-19:17:40.390 37bc Reusing old log C:\Users\idate\Documents\GitHub\2025-26-GD-3DGD-ICA-IdaTehlarova\ICA2_Ida_Tehlarova\Saved\webcache_6613\Default\Sync Data\LevelDB/000003.log 
