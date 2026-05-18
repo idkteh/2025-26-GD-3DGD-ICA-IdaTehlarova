@@ -69,7 +69,16 @@
 				"C:/Users/idate/Documents/GitHub/2025-26-GD-3DGD-ICA-IdaTehlarova/ICA2_Ida_Tehlarova/Content/__ExternalActors__/Maps/MainLevel/9/OA/C6IRM0JP6E806X3T8XRH04.uasset",
 				"C:/Users/idate/Documents/GitHub/2025-26-GD-3DGD-ICA-IdaTehlarova/ICA2_Ida_Tehlarova/Content/__ExternalActors__/Maps/MainLevel/7/V7/ICENQFJRT23HIE9GJ5YEWC.uasset",
 				"C:/Users/idate/Documents/GitHub/2025-26-GD-3DGD-ICA-IdaTehlarova/ICA2_Ida_Tehlarova/Content/__ExternalObjects__/Maps/MainLevel/2/K5/OV0X93S64AW4LQDWF5U5IA.uasset",
-				"C:/Users/idate/Documents/GitHub/2025-26-GD-3DGD-ICA-IdaTehlarova/ICA2_Ida_Tehlarova/Content/Maps/MainLevel.umap"
+				"C:/Users/idate/Documents/GitHub/2025-26-GD-3DGD-ICA-IdaTehlarova/ICA2_Ida_Tehlarova/Content/Maps/MainLevel.umap",
+				"C:/Users/idate/Documents/GitHub/2025-26-GD-3DGD-ICA-IdaTehlarova/ICA2_Ida_Tehlarova/Content/Blueprints/BP_Examinable.uasset",
+				"C:/Users/idate/Documents/GitHub/2025-26-GD-3DGD-ICA-IdaTehlarova/ICA2_Ida_Tehlarova/Content/Blueprints/Interactable/BPI_Interactable.uasset",
+				"C:/Users/idate/Documents/GitHub/2025-26-GD-3DGD-ICA-IdaTehlarova/ICA2_Ida_Tehlarova/Content/UI/WBP_ExamineUI.uasset",
+				"C:/Users/idate/Documents/GitHub/2025-26-GD-3DGD-ICA-IdaTehlarova/ICA2_Ida_Tehlarova/Content/Input/Actions/IA_Interact.uasset",
+				"C:/Users/idate/Documents/GitHub/2025-26-GD-3DGD-ICA-IdaTehlarova/ICA2_Ida_Tehlarova/Content/Input/IMC_Default.uasset",
+				"C:/Users/idate/Documents/GitHub/2025-26-GD-3DGD-ICA-IdaTehlarova/ICA2_Ida_Tehlarova/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/idate/Documents/GitHub/2025-26-GD-3DGD-ICA-IdaTehlarova/ICA2_Ida_Tehlarova/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/F/1M/TFW2M15U80UZBBGYDFLFTN.uasset",
+				"C:/Users/idate/Documents/GitHub/2025-26-GD-3DGD-ICA-IdaTehlarova/ICA2_Ida_Tehlarova/Content/Blueprints/BP_Interactable.uasset",
+				"C:/Users/idate/Documents/GitHub/2025-26-GD-3DGD-ICA-IdaTehlarova/ICA2_Ida_Tehlarova/Content/Blueprints/Interactable/BP_Interactable.uasset"
 			]
 		}
 	]
