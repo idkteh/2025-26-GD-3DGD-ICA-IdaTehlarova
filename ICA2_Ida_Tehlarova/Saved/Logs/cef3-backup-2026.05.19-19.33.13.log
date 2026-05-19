@@ -1,0 +1,17 @@
+[16728:18000:0519/192705.827:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[16728:14864:0519/192705.880:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[16728:18000:0519/192705.906:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[29808:1572:0519/192711.333:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-0AC9F8E033A97D159A3FEFC1E1FA9196 will be ignored
+[21416:30108:0519/192713.342:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[21416:30108:0519/192714.006:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[21416:30108:0519/192725.171:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[21416:30108:0519/192734.227:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[16728:34616:0519/202919.846:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[21416:14168:0519/202919.866:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[16728:34616:0519/202924.852:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[21416:32204:0519/202924.886:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[16728:34616:0519/202934.857:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[21416:14168:0519/202934.902:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[16728:34616:0519/202954.863:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[21416:32204:0519/202954.922:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[16728:18000:0519/203313.219:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
