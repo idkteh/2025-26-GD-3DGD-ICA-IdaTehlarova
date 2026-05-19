@@ -1,9 +1,57 @@
-[34112:25732:0519/232738.798:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[34112:17016:0519/232738.848:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[34112:25732:0519/232738.857:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[27096:18704:0519/232743.619:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-8A115A3541506EAC582A9D107D511D40 will be ignored
-[34224:10872:0519/232745.781:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[34224:10872:0519/232745.819:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[34224:10872:0519/232758.577:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
-[34224:10872:0519/232806.654:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
-[34112:25732:0519/232923.817:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[26532:4460:0519/232959.873:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[26532:15028:0519/232959.924:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[26532:4460:0519/232959.947:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[31260:15380:0519/233004.118:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-D2327F9B668B5D5AE82CE9C1F1A4C250 will be ignored
+[33576:7144:0519/233007.087:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[33576:7144:0519/233007.746:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[33576:7144:0519/233020.746:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[33576:7144:0519/233032.792:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[19992:24780:0519/234654.056:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 7-BC9995E91D74C0385EF7BB07D1BE19AA will be ignored
+[30220:29528:0519/234744.034:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(103,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4_int)
+
+[30220:11324:0519/234744.195:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(136,1): warning X4000: use of potentially uninitialized variable (f_i_int_int_int2)
+C:\fakepath(138,1): warning X4000: use of potentially uninitialized variable (f_i_int_int_int2)
+C:\fakepath(174,1): warning X4000: use of potentially uninitialized variable (f_u_int_int_int)
+
+[30220:12544:0519/234744.459:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(166,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel_int)
+
+[30220:22120:0519/234744.465:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(166,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel_int)
+
+[30220:17888:0519/234744.465:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(166,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel_int)
+
+[30220:12784:0519/234744.858:ERROR:gl_utils.cc(415)] [.WebGL-00007568033B9400] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[30220:12784:0519/234744.858:ERROR:gl_utils.cc(415)] [.WebGL-00007568033B9400] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[30220:12784:0519/234744.858:ERROR:gl_utils.cc(415)] [.WebGL-00007568033B9400] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[30220:12784:0519/234744.858:ERROR:gl_utils.cc(415)] [.WebGL-00007568033B9400] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[30220:12784:0519/234744.858:ERROR:gl_utils.cc(415)] [.WebGL-00007568033B9400] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[30220:12784:0519/234744.858:ERROR:gl_utils.cc(415)] [.WebGL-00007568033B9400] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[30220:12784:0519/234744.858:ERROR:gl_utils.cc(415)] [.WebGL-00007568033B9400] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[30220:12784:0519/234744.858:ERROR:gl_utils.cc(415)] [.WebGL-00007568033B9400] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[30220:12784:0519/234744.858:ERROR:gl_utils.cc(415)] [.WebGL-00007568033B9400] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[30220:12784:0519/234744.858:ERROR:gl_utils.cc(415)] [.WebGL-00007568033B9400] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[30220:12784:0519/234744.858:ERROR:gl_utils.cc(415)] [.WebGL-00007568033B9400] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[30220:12784:0519/234744.859:ERROR:gl_utils.cc(415)] [.WebGL-00007568033B9400] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[30220:12784:0519/234744.878:ERROR:gl_utils.cc(415)] [.WebGL-00007568033B9400] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[30220:12784:0519/234744.878:ERROR:gl_utils.cc(415)] [.WebGL-00007568033B9400] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[30220:12784:0519/234744.878:ERROR:gl_utils.cc(415)] [.WebGL-00007568033B9400] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[30220:12784:0519/234744.878:ERROR:gl_utils.cc(415)] [.WebGL-00007568033B9400] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[30220:12784:0519/234744.878:ERROR:gl_utils.cc(415)] [.WebGL-00007568033B9400] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[30220:12784:0519/234744.878:ERROR:gl_utils.cc(415)] [.WebGL-00007568033B9400] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[30220:12784:0519/234744.878:ERROR:gl_utils.cc(415)] [.WebGL-00007568033B9400] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[30220:12784:0519/234744.878:ERROR:gl_utils.cc(415)] [.WebGL-00007568033B9400] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[30220:12784:0519/234744.878:ERROR:gl_utils.cc(415)] [.WebGL-00007568033B9400] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[30220:12784:0519/234744.878:ERROR:gl_utils.cc(415)] [.WebGL-00007568033B9400] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[30220:12784:0519/234744.878:ERROR:gl_utils.cc(415)] [.WebGL-00007568033B9400] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[30220:12784:0519/234744.878:ERROR:gl_utils.cc(415)] [.WebGL-00007568033B9400] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[26532:4460:0519/235153.812:ERROR:menu_runner_views_aura.cc(24)] Window handle is required for default OSR context menu.
+[26532:4460:0519/235153.812:ERROR:menu_manager.cc(198)] Default context menu implementation is not available; canceling the menu
+[30220:22120:0519/235312.084:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(382,11-39): warning X4008: floating point division by zero
+C:\fakepath(382,11-39): warning X4008: floating point division by zero
+
+[26532:4460:0520/002057.480:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
