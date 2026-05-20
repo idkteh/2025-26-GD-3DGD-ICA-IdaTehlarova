@@ -1,57 +1,12 @@
-[26532:4460:0519/232959.873:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[26532:15028:0519/232959.924:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[26532:4460:0519/232959.947:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[31260:15380:0519/233004.118:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-D2327F9B668B5D5AE82CE9C1F1A4C250 will be ignored
-[33576:7144:0519/233007.087:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[33576:7144:0519/233007.746:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[33576:7144:0519/233020.746:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
-[33576:7144:0519/233032.792:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[19992:24780:0519/234654.056:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 7-BC9995E91D74C0385EF7BB07D1BE19AA will be ignored
-[30220:29528:0519/234744.034:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
-C:\fakepath(103,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4_int)
-
-[30220:11324:0519/234744.195:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
-C:\fakepath(136,1): warning X4000: use of potentially uninitialized variable (f_i_int_int_int2)
-C:\fakepath(138,1): warning X4000: use of potentially uninitialized variable (f_i_int_int_int2)
-C:\fakepath(174,1): warning X4000: use of potentially uninitialized variable (f_u_int_int_int)
-
-[30220:12544:0519/234744.459:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
-C:\fakepath(166,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel_int)
-
-[30220:22120:0519/234744.465:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
-C:\fakepath(166,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel_int)
-
-[30220:17888:0519/234744.465:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
-C:\fakepath(166,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel_int)
-
-[30220:12784:0519/234744.858:ERROR:gl_utils.cc(415)] [.WebGL-00007568033B9400] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
-[30220:12784:0519/234744.858:ERROR:gl_utils.cc(415)] [.WebGL-00007568033B9400] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
-[30220:12784:0519/234744.858:ERROR:gl_utils.cc(415)] [.WebGL-00007568033B9400] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
-[30220:12784:0519/234744.858:ERROR:gl_utils.cc(415)] [.WebGL-00007568033B9400] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
-[30220:12784:0519/234744.858:ERROR:gl_utils.cc(415)] [.WebGL-00007568033B9400] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
-[30220:12784:0519/234744.858:ERROR:gl_utils.cc(415)] [.WebGL-00007568033B9400] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
-[30220:12784:0519/234744.858:ERROR:gl_utils.cc(415)] [.WebGL-00007568033B9400] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
-[30220:12784:0519/234744.858:ERROR:gl_utils.cc(415)] [.WebGL-00007568033B9400] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
-[30220:12784:0519/234744.858:ERROR:gl_utils.cc(415)] [.WebGL-00007568033B9400] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
-[30220:12784:0519/234744.858:ERROR:gl_utils.cc(415)] [.WebGL-00007568033B9400] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
-[30220:12784:0519/234744.858:ERROR:gl_utils.cc(415)] [.WebGL-00007568033B9400] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
-[30220:12784:0519/234744.859:ERROR:gl_utils.cc(415)] [.WebGL-00007568033B9400] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
-[30220:12784:0519/234744.878:ERROR:gl_utils.cc(415)] [.WebGL-00007568033B9400] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
-[30220:12784:0519/234744.878:ERROR:gl_utils.cc(415)] [.WebGL-00007568033B9400] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
-[30220:12784:0519/234744.878:ERROR:gl_utils.cc(415)] [.WebGL-00007568033B9400] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
-[30220:12784:0519/234744.878:ERROR:gl_utils.cc(415)] [.WebGL-00007568033B9400] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
-[30220:12784:0519/234744.878:ERROR:gl_utils.cc(415)] [.WebGL-00007568033B9400] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
-[30220:12784:0519/234744.878:ERROR:gl_utils.cc(415)] [.WebGL-00007568033B9400] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
-[30220:12784:0519/234744.878:ERROR:gl_utils.cc(415)] [.WebGL-00007568033B9400] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
-[30220:12784:0519/234744.878:ERROR:gl_utils.cc(415)] [.WebGL-00007568033B9400] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
-[30220:12784:0519/234744.878:ERROR:gl_utils.cc(415)] [.WebGL-00007568033B9400] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
-[30220:12784:0519/234744.878:ERROR:gl_utils.cc(415)] [.WebGL-00007568033B9400] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
-[30220:12784:0519/234744.878:ERROR:gl_utils.cc(415)] [.WebGL-00007568033B9400] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
-[30220:12784:0519/234744.878:ERROR:gl_utils.cc(415)] [.WebGL-00007568033B9400] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
-[26532:4460:0519/235153.812:ERROR:menu_runner_views_aura.cc(24)] Window handle is required for default OSR context menu.
-[26532:4460:0519/235153.812:ERROR:menu_manager.cc(198)] Default context menu implementation is not available; canceling the menu
-[30220:22120:0519/235312.084:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
-C:\fakepath(382,11-39): warning X4008: floating point division by zero
-C:\fakepath(382,11-39): warning X4008: floating point division by zero
-
-[26532:4460:0520/002057.480:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[24408:26672:0520/160555.315:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[24408:34844:0520/160557.631:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[24408:26672:0520/160557.835:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[28496:31320:0520/160612.816:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[23244:34472:0520/160613.127:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-55A4715175CF39B884204C26B373690A will be ignored
+[15732:12260:0520/160614.802:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 6-F98063AB088F5750F74A668DF09F3D64 will be ignored
+[16480:27160:0520/160615.134:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[28496:31320:0520/160623.876:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[28496:31320:0520/160635.468:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[24408:26672:0520/165304.552:ERROR:device_event_log_impl.cc(196)] [16:53:04.359] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+[24408:26672:0520/171722.363:ERROR:device_event_log_impl.cc(196)] [17:17:22.177] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[24408:26672:0520/175423.250:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
