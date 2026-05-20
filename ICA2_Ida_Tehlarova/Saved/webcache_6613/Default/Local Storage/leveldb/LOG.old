@@ -1,9 +1,24 @@
-2026/05/19-23:30:00.007 3f38 Reusing MANIFEST C:\Users\idate\Documents\GitHub\2025-26-GD-3DGD-ICA-IdaTehlarova\ICA2_Ida_Tehlarova\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/05/19-23:30:00.014 3f38 Recovering log #4
-2026/05/19-23:30:00.018 3f38 Reusing old log C:\Users\idate\Documents\GitHub\2025-26-GD-3DGD-ICA-IdaTehlarova\ICA2_Ida_Tehlarova\Saved\webcache_6613\Default\Local Storage\leveldb/000004.log 
-2026/05/19-23:49:54.049 729c Level-0 table #8: started
-2026/05/19-23:49:54.059 729c Level-0 table #8: 65227 bytes OK
-2026/05/19-23:49:54.065 729c Delete type=0 #4
-2026/05/20-00:18:24.905 729c Level-0 table #10: started
-2026/05/20-00:18:24.920 729c Level-0 table #10: 73923 bytes OK
-2026/05/20-00:18:24.926 729c Delete type=0 #7
+2026/05/20-16:05:57.962 170 Reusing MANIFEST C:\Users\idate\Documents\GitHub\2025-26-GD-3DGD-ICA-IdaTehlarova\ICA2_Ida_Tehlarova\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/05/20-16:05:57.977 170 Recovering log #9
+2026/05/20-16:05:57.981 170 Reusing old log C:\Users\idate\Documents\GitHub\2025-26-GD-3DGD-ICA-IdaTehlarova\ICA2_Ida_Tehlarova\Saved\webcache_6613\Default\Local Storage\leveldb/000009.log 
+2026/05/20-17:28:33.631 2434 Level-0 table #13: started
+2026/05/20-17:28:33.647 2434 Level-0 table #13: 66737 bytes OK
+2026/05/20-17:28:33.656 2434 Delete type=0 #9
+2026/05/20-17:29:42.975 2434 Level-0 table #15: started
+2026/05/20-17:29:42.984 2434 Level-0 table #15: 75985 bytes OK
+2026/05/20-17:29:42.990 2434 Delete type=0 #12
+2026/05/20-17:30:55.647 2434 Level-0 table #17: started
+2026/05/20-17:30:55.654 2434 Level-0 table #17: 66328 bytes OK
+2026/05/20-17:30:55.657 2434 Delete type=0 #14
+2026/05/20-17:30:55.659 2434 Compacting 4@0 + 1@1 files
+2026/05/20-17:30:55.667 2434 Generated table #18@0: 9 keys, 23352 bytes
+2026/05/20-17:30:55.667 2434 Compacted 4@0 + 1@1 files => 23352 bytes
+2026/05/20-17:30:55.670 2434 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/05/20-17:30:55.671 2434 Delete type=2 #8
+2026/05/20-17:30:55.671 2434 Delete type=2 #10
+2026/05/20-17:30:55.671 2434 Delete type=2 #13
+2026/05/20-17:30:55.671 2434 Delete type=2 #15
+2026/05/20-17:30:55.671 2434 Delete type=2 #17
+2026/05/20-17:39:33.911 2434 Level-0 table #20: started
+2026/05/20-17:39:33.924 2434 Level-0 table #20: 75146 bytes OK
+2026/05/20-17:39:33.928 2434 Delete type=0 #16
