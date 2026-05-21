@@ -1,8 +1,5 @@
-2026/05/21-05:01:28.621 8c94 Reusing MANIFEST C:\Users\idate\Documents\GitHub\2025-26-GD-3DGD-ICA-IdaTehlarova\ICA2_Ida_Tehlarova\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/05/21-05:01:28.627 8c94 Recovering log #28
-2026/05/21-05:01:28.628 8c94 Level-0 table #32: started
-2026/05/21-05:01:28.637 8c94 Level-0 table #32: 63315 bytes OK
-2026/05/21-05:01:28.645 8c94 Delete type=0 #28
-2026/05/21-05:18:11.278 9370 Level-0 table #35: started
-2026/05/21-05:18:11.287 9370 Level-0 table #35: 90706 bytes OK
-2026/05/21-05:18:11.290 9370 Delete type=0 #33
+2026/05/21-05:28:38.416 7428 Reusing MANIFEST C:\Users\idate\Documents\GitHub\2025-26-GD-3DGD-ICA-IdaTehlarova\ICA2_Ida_Tehlarova\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/05/21-05:28:38.426 7428 Recovering log #34
+2026/05/21-05:28:38.426 7428 Level-0 table #37: started
+2026/05/21-05:28:38.438 7428 Level-0 table #37: 73190 bytes OK
+2026/05/21-05:28:38.446 7428 Delete type=0 #34
