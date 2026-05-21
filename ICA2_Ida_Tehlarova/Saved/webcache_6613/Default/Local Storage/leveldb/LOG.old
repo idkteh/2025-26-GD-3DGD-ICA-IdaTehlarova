@@ -1,8 +1,17 @@
-2026/05/21-05:01:28.621 8c94 Reusing MANIFEST C:\Users\idate\Documents\GitHub\2025-26-GD-3DGD-ICA-IdaTehlarova\ICA2_Ida_Tehlarova\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/05/21-05:01:28.627 8c94 Recovering log #28
-2026/05/21-05:01:28.628 8c94 Level-0 table #32: started
-2026/05/21-05:01:28.637 8c94 Level-0 table #32: 63315 bytes OK
-2026/05/21-05:01:28.645 8c94 Delete type=0 #28
-2026/05/21-05:18:11.278 9370 Level-0 table #35: started
-2026/05/21-05:18:11.287 9370 Level-0 table #35: 90706 bytes OK
-2026/05/21-05:18:11.290 9370 Delete type=0 #33
+2026/05/21-06:06:51.485 8c34 Reusing MANIFEST C:\Users\idate\Documents\GitHub\2025-26-GD-3DGD-ICA-IdaTehlarova\ICA2_Ida_Tehlarova\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/05/21-06:06:51.491 8c34 Recovering log #38
+2026/05/21-06:06:51.492 8c34 Level-0 table #40: started
+2026/05/21-06:06:51.504 8c34 Level-0 table #40: 82929 bytes OK
+2026/05/21-06:06:51.513 8c34 Delete type=0 #38
+2026/05/21-06:06:51.514 6df4 Compacting 4@0 + 1@1 files
+2026/05/21-06:06:51.528 6df4 Generated table #42@0: 9 keys, 41830 bytes
+2026/05/21-06:06:51.528 6df4 Compacted 4@0 + 1@1 files => 41830 bytes
+2026/05/21-06:06:51.530 6df4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/05/21-06:06:51.531 6df4 Delete type=2 #30
+2026/05/21-06:06:51.531 6df4 Delete type=2 #32
+2026/05/21-06:06:51.532 6df4 Delete type=2 #35
+2026/05/21-06:06:51.532 6df4 Delete type=2 #37
+2026/05/21-06:06:51.532 6df4 Delete type=2 #40
+2026/05/21-07:10:39.361 6df4 Level-0 table #44: started
+2026/05/21-07:10:39.371 6df4 Level-0 table #44: 75269 bytes OK
+2026/05/21-07:10:39.377 6df4 Delete type=0 #41
