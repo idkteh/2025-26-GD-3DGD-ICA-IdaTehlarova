@@ -34,7 +34,11 @@ Substrate material — A custom mossy stone floor material (M_StoneFloor) was au
 
 
 Asset References:
-Breelri (2025) Magic Potion Free game-ready 3D asset [Unreal Engine asset pack]. Available at: fab.com (Accessed: May 2026).\n
-Enchanted Potion Room Asset Pack (n.d.) EnchantedPotionRoom [Unreal Engine asset pack]. Available at: Fab.com (Accessed: May 2026).\n
-Epic Games (2024) First Person Template [Unreal Engine built-in template]. Unreal Engine 5. Available at: unrealengine.com (Accessed: May 2026).\n
-Megascans (n.d.) Stone and surface textures [Unreal Engine asset pack]. Available via Fab.com/Quixel Bridge (Accessed: May 2026).\n
+Breelri (2025) Magic Potion Free game-ready 3D asset [Unreal Engine asset pack]. Available at: fab.com (Accessed: May 2026).
+
+Enchanted Potion Room Asset Pack (n.d.) EnchantedPotionRoom [Unreal Engine asset pack]. Available at: Fab.com (Accessed: May 2026).
+
+Epic Games (2024) First Person Template [Unreal Engine built-in template]. Unreal Engine 5. Available at: unrealengine.com (Accessed: May 2026).
+
+Megascans (n.d.) Stone and surface textures [Unreal Engine asset pack]. Available via Fab.com/Quixel Bridge (Accessed: May 2026).
+
