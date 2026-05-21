@@ -21,11 +21,17 @@ Stage 1 Reflection
 The Stage 1 concept proposed a wizard's study with a three-dial combination lock, three interaction verbs (Examine, Collect, Modify), and environmental storytelling through props and layout. The core design intent remained consistent through to final submission, with the following key changes and additions made during Stage 2:
 
 Puzzle redesign — The original dial/combination lock concept was replaced with a ritual-based puzzle: the player must take two bites from a carrot, stir the cauldron once, and place the wooden box on the stool. This change made the puzzle feel more grounded in the wizard's world and more narratively motivated than abstract symbol matching.
+
 Camera sequence — A Sequencer push-in camera move (LS_DoorUnlock) was added to play on puzzle completion, adding cinematic feedback to the escape moment.
+
 Lighting — The directional light was removed and replaced with warm point lights on candles and a coloured emissive cauldron, creating atmosphere driven entirely by in-world light sources.
+
 Room dressing — Props from Fab asset packs were placed throughout: bottles, books, candles, furniture, and a bubbling cauldron with a Niagara particle system.
+
 Examine system — A UI widget (WBP_ExamineUI) was implemented to display title and description text when the player examines objects. Multiple examinable actors were placed around the room with narrative text to guide the player and reinforce the wizard's story.
+
 Substrate material — A custom mossy stone floor material (M_StoneFloor) was authored using Substrate, with normal map, roughness, and bump offset to support the aged, damp aesthetic of the space
+
 
 Asset References:
 Breelri (2025) Magic Potion Free game-ready 3D asset [Unreal Engine asset pack]. Available at: fab.com (Accessed: May 2026).
