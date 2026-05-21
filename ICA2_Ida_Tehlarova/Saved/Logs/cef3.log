@@ -1,5 +1,16 @@
-[38920:38968:0521/071249.620:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[38920:27172:0521/071250.132:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[38920:38968:0521/071250.271:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[38800:28848:0521/071259.993:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-6745840C37ACA7C1B20B133DE9BE6BD3 will be ignored
-[38920:38968:0521/072208.897:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[26532:19972:0521/185519.795:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[34452:29884:0521/185519.795:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[26532:3096:0521/185520.072:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[26532:19972:0521/185520.246:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[38532:39280:0521/185528.631:WARNING:backend_impl.cc(1764)] Destroying invalid entry.
+[38532:39280:0521/185528.632:ERROR:backend_impl.cc(989)] Critical error found -8
+[38532:39280:0521/185528.966:WARNING:storage_block-inl.h(138)] Failed data load.
+[38532:39280:0521/185528.966:WARNING:storage_block-inl.h(138)] Failed data load.
+[38532:39280:0521/185528.968:ERROR:entry_impl.cc(955)] Failed to save user data
+[10476:39492:0521/185529.393:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-7EE02307709DAFCC9C6E84260C170B21 will be ignored
+[38532:21324:0521/185531.510:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[38532:21324:0521/185531.537:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[38532:21324:0521/185540.386:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[38532:21324:0521/185551.168:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[26532:19972:0521/205419.053:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[26532:19972:0521/210009.821:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
