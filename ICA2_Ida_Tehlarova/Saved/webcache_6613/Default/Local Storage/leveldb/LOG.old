@@ -1,6 +1,15 @@
-2026/05/20-19:56:57.249 2064 Reusing MANIFEST C:\Users\idate\Documents\GitHub\2025-26-GD-3DGD-ICA-IdaTehlarova\ICA2_Ida_Tehlarova\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/05/20-19:56:57.256 2064 Recovering log #23
-2026/05/20-19:56:57.259 2064 Reusing old log C:\Users\idate\Documents\GitHub\2025-26-GD-3DGD-ICA-IdaTehlarova\ICA2_Ida_Tehlarova\Saved\webcache_6613\Default\Local Storage\leveldb/000023.log 
-2026/05/20-20:19:17.574 75c4 Level-0 table #26: started
-2026/05/20-20:19:17.582 75c4 Level-0 table #26: 66907 bytes OK
-2026/05/20-20:19:17.592 75c4 Delete type=0 #23
+2026/05/20-23:12:26.103 1258 Reusing MANIFEST C:\Users\idate\Documents\GitHub\2025-26-GD-3DGD-ICA-IdaTehlarova\ICA2_Ida_Tehlarova\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/05/20-23:12:26.116 1258 Recovering log #25
+2026/05/20-23:12:26.124 1258 Reusing old log C:\Users\idate\Documents\GitHub\2025-26-GD-3DGD-ICA-IdaTehlarova\ICA2_Ida_Tehlarova\Saved\webcache_6613\Default\Local Storage\leveldb/000025.log 
+2026/05/20-23:12:59.602 37b8 Level-0 table #29: started
+2026/05/20-23:12:59.612 37b8 Level-0 table #29: 78431 bytes OK
+2026/05/20-23:12:59.621 37b8 Delete type=0 #25
+2026/05/20-23:12:59.624 37b8 Compacting 4@0 + 1@1 files
+2026/05/20-23:12:59.632 37b8 Generated table #30@0: 9 keys, 31784 bytes
+2026/05/20-23:12:59.632 37b8 Compacted 4@0 + 1@1 files => 31784 bytes
+2026/05/20-23:12:59.640 37b8 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/05/20-23:12:59.641 37b8 Delete type=2 #18
+2026/05/20-23:12:59.641 37b8 Delete type=2 #20
+2026/05/20-23:12:59.641 37b8 Delete type=2 #22
+2026/05/20-23:12:59.641 37b8 Delete type=2 #26
+2026/05/20-23:12:59.641 37b8 Delete type=2 #29
